@@ -1,7 +1,7 @@
 import { AnchorHTMLAttributes, ButtonHTMLAttributes, FC, FormHTMLAttributes, HTMLAttributes, InputHTMLAttributes, LabelHTMLAttributes, LiHTMLAttributes, SelectHTMLAttributes, SVGAttributes, TextareaHTMLAttributes } from "react";
 import { clsify } from "./utils";
 
-
+// These are the functions to create customized components using supported HTML elements
 export function a(t: TemplateStringsArray) {
     const A: FC<AnchorHTMLAttributes<HTMLAnchorElement>> = ({className = "", ...p}) => <a className={clsify(t) + ' ' + className} {...p}/>
     return A
