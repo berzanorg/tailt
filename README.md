@@ -21,6 +21,8 @@ Let's add an onClick attribute.
 - So, you can add them as like as props.
 
 <br>
+> The library requires TailwindCSS to be installed, and some features requires it to be configured especially.
+<br>
 
 ## Installation
 #### NPM
@@ -33,6 +35,14 @@ yarn add tailt
 ```
 
 ## Docs
+#### To support dark mode
+Add this line to tailwind.config.js 
+```javascript
+darkMode: 'class',
+```
+
+<br>
+
 #### Supported HTML elements
 - `a`
 - `article`
