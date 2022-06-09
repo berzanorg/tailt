@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "declaration": true,
+    "outDir": "./bin",
+    "strict": true,
+    "skipLibCheck": true,
+    "jsx": "react-jsx",
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

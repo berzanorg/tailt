@@ -1,0 +1,17 @@
+{
+  "name": "tailt",
+  "version": "0.1.0",
+  "description": "⚡ ⚛️ Create blazingly fast custom React.js components",
+  "main": "bin/index.js",
+  "repository": "https://github.com/BerzanXYZ/tailt.git",
+  "author": "BerzanXYZ <berzan@tutanota.com>",
+  "license": "MIT",
+  "files": [
+    "bin"
+  ],
+  "devDependencies": {
+    "@types/react": "^18.0.12",
+    "react": "^18.1.0",
+    "typescript": "^4.7.3"
+  }
+}
