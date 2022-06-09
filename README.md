@@ -21,7 +21,9 @@ Let's add an onClick attribute.
 - So, you can add them as like as props.
 
 <br>
+
 > The library requires TailwindCSS to be installed, and some features requires it to be configured especially.
+
 <br>
 
 ## Installation
