@@ -107,11 +107,6 @@ export function span(t: TemplateStringsArray) {
     return Span
 }
 
-export function svg(t: TemplateStringsArray) {
-    const SVG: FC<SVGAttributes<SVGElement>> = ({className= "", ...p}: any) => <svg className={clsify(t) + ' ' + className} {...p}/>
-    return SVG
-}
-
 export function textarea(t: TemplateStringsArray) {
     const TextArea: FC<TextareaHTMLAttributes<HTMLTextAreaElement>> = ({className= "", ...p}: any) => <textarea className={clsify(t) + ' ' + className} {...p}/>
     return TextArea
