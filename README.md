@@ -40,7 +40,10 @@ yarn add tailt
 #### To support dark mode
 Add this line to tailwind.config.js 
 ```javascript
-darkMode: 'class',
+module.exports = {
+   darkMode: 'class',
+...
+}
 ```
 
 <br>
