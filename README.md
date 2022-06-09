@@ -22,7 +22,7 @@ Let's add an onClick attribute.
 
 <br>
 
-> The library requires TailwindCSS to be installed, and some features requires it to be configured especially.
+> The library requires TailwindCSS to be installed, and some features require it to be configured especially.
 
 <br>
 
