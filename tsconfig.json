@@ -6,6 +6,7 @@
     "outDir": "./bin",
     "strict": true,
     "skipLibCheck": true,
+    "removeComments": true,
     "jsx": "react-jsx",
   },
   "include": [
