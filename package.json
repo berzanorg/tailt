@@ -1,6 +1,6 @@
 {
   "name": "tailt",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "⚡ ⚛️ Create blazingly fast custom React.js components",
   "main": "bin/index.js",
   "repository": "https://github.com/BerzanXYZ/tailt.git",
