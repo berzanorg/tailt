@@ -42,7 +42,7 @@ Add this line to tailwind.config.js
 ```javascript
 module.exports = {
    darkMode: 'class',
-...
+   ...
 }
 ```
 
