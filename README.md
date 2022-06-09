@@ -70,3 +70,4 @@ yarn tsc
 
 ## Notes
 If you find a bug or want an improvement, please create a pull request.
+Made with ❤️ by `@BerzanXYZ`
