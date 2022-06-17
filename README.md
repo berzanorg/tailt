@@ -22,7 +22,7 @@ Let's add an onClick attribute.
 
 <br>
 
-> The library requires TailwindCSS to be installed, and some features require it to be configured especially.
+> The library requires TailwindCSS to be installed.
 
 <br>
 
@@ -37,16 +37,6 @@ yarn add tailt
 ```
 
 ## Docs
-#### To support dark mode
-Add this line to tailwind.config.js 
-```javascript
-module.exports = {
-   darkMode: 'class',
-   ...
-}
-```
-
-<br>
 
 #### Supported HTML elements
 - `a`
