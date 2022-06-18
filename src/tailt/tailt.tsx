@@ -1,4 +1,4 @@
-import { AnchorHTMLAttributes, ButtonHTMLAttributes, FC, FormHTMLAttributes, forwardRef, HTMLAttributes, InputHTMLAttributes, LabelHTMLAttributes, LiHTMLAttributes, SelectHTMLAttributes, SVGAttributes, TextareaHTMLAttributes } from "react";
+import { AnchorHTMLAttributes, ButtonHTMLAttributes, FormHTMLAttributes, forwardRef, HTMLAttributes, InputHTMLAttributes, LabelHTMLAttributes, LiHTMLAttributes, TextareaHTMLAttributes } from "react";
 import { clsify } from "./utils";
 
 // These are the functions to create customized components using supported HTML elements
